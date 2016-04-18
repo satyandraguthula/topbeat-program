@@ -1,5 +1,4 @@
 import json
-from urllib import urlopen
 
 with open("//tmp//topbeat//topbeat") as f:
     content = f.readlines()
